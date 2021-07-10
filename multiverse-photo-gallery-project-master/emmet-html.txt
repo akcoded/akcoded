@@ -1,0 +1,1 @@
+(div.image-grid>(a.image-container[href="#"]>img[src=assets/images/0$.jpg]+(h2.heading>lorem3)+p.description{Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.})*12)+script[src=main.js]
